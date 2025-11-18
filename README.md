@@ -7,7 +7,7 @@ I see it as people, behaviors, patterns, and answers waiting to be uncovered.
 
 --------------------------------------------------------
 ## What I Actually Do
-I’m not trying to list every tool I’ve ever used — just the things I genuinely enjoy working with:
+I am not trying to list every tool I have ever used, just the things I genuinely enjoy working with:
 - Power BI > building clean, intuitive dashboards
 - SQL > answering real business questions
 - Python > analysis, automation, and exploration
@@ -33,11 +33,15 @@ Because these are roles where building + storytelling = impact:
 ---------------------------------------------------------
 ## How I Think About My Work
 I ask “why?” a lot.
+
 I like when things make sense — visually, logically, and strategically.
+
 If I can build something useful and explain it clearly, that’s a good day.
+
 ---------------------------------------------------------
 ## Connect With Me
-[ My LinkedIn] (https://www.linkedin.com/in/sreelakshmi-vellanki/)
+**[My LinkedIn](https://www.linkedin.com/in/sreelakshmi-vellanki/)**
+
 <!--
 **chathuryasri1912/chathuryasri1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
