@@ -32,12 +32,9 @@ Because these are roles where building + storytelling = impact:
 - Product Owner (data-focused teams)
 ---------------------------------------------------------
 ## How I Think About My Work
-I ask “why?” a lot.
-
-I like when things make sense — visually, logically, and strategically.
-
-If I can build something useful and explain it clearly, that’s a good day.
-
+- I ask “why?” a lot.
+- I like when things make sense -> visually, logically, and strategically.
+- If I can build something useful and explain it clearly, that’s a good day.
 ---------------------------------------------------------
 ## Connect With Me
 **[My LinkedIn](https://www.linkedin.com/in/sreelakshmi-vellanki/)**
